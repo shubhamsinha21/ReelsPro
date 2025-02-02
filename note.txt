@@ -1,0 +1,4 @@
+lib - db.ts
+used for database connection
+Either first time or already estd
+no regular string for database connection [env variable]
