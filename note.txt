@@ -2,3 +2,16 @@ lib - db.ts
 used for database connection
 Either first time or already estd
 no regular string for database connection [env variable]
+
+next js environment data types are defined in next-env.d.ts
+types.d.ts -> global types file
+
+installing bcryptjs for encrypting passwordsof users
+- js implementation of bcryptjs
+- installed types for red line error
+
+# api (this is backend, everything inside it will be treated as backend)
+api > api > /auth > /register > route.ts
+
+// registered the user via POST request by POSTMAN
+// cross-checked via mongodb
