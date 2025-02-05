@@ -15,3 +15,11 @@ api > api > /auth > /register > route.ts
 
 // registered the user via POST request by POSTMAN
 // cross-checked via mongodb
+
+# how to use next auth ------------------------
+1. we need next-auth.d.ts file
+2. we take default session
+
+# NextAuthOptions --------------------------
+- this options later injected to NextAuth file
+- it gets injected into a route, where it actually working
