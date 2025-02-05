@@ -23,3 +23,7 @@ api > api > /auth > /register > route.ts
 # NextAuthOptions --------------------------
 - this options later injected to NextAuth file
 - it gets injected into a route, where it actually working
+
+// git commits -
+session created -> in next-auth.d.tss
+adding auth provider and authentication -> in auth.ts
